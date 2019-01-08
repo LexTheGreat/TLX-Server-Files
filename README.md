@@ -9,3 +9,6 @@ This Addon requires [Debug Console](http://killzonekid.com/arma-console-extensio
 This version of the files is the lastest, other than the updated version with SQL saving that wont be released.
 
 Have fun in Takistan!
+
+
+PS Shoot me a message on discord and I'll list your server here. Lex_The_Great#6953
